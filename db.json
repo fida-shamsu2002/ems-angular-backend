@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "AdminFida",
+      "email": "admin@gmail.com",
+      "active": 1,
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Jani",
+      "email": "jani@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Manju",
+      "email": "manju@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "123",
+      "name": "Fida Shamsu",
+      "email": "fidashamsu@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "12",
+      "name": "Ammu",
+      "email": "ammu@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "Fiju",
+      "email": "fiju@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "name": "Faathi",
+      "email": "faathi@gmail.com",
+      "active": "0"
+    }
+  ]
+}
